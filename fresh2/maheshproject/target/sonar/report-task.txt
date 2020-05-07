@@ -1,6 +1,0 @@
-projectKey=employee:payslip
-serverUrl=http://localhost:9000
-serverVersion=8.3.0.34182
-dashboardUrl=http://localhost:9000/dashboard?id=employee%3Apayslip
-ceTaskId=AXHtx7aD5Y1HVPU9TUPn
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXHtx7aD5Y1HVPU9TUPn
